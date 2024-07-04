@@ -1,0 +1,31 @@
+  .custom-button {
+    color: black;
+  }
+  
+  .custom-text {
+    color: black;
+  }
+  
+  .pokemon-name, .me-3{
+    text-decoration: underline;
+    color: black;
+  }
+  
+  .pokemon-name a:hover {
+    text-decoration: underline; 
+  }
+
+.btn-dark {
+    background-color: black;
+    border-color: black;
+  }
+
+.bg{
+    background-color: yellow;
+}
+
+.btnback{
+    background-color:white;
+    color:black;
+}
+  
